@@ -4,6 +4,8 @@ Hi there, welcome to my GitHub online page!
 
 I am Christian Zaccaria, I am a student at Waterford Institute of Technology (WIT). Here I will show some of the projects I have committed on GitHub and will be including more on the way.
 
+---
+
 ## AS Roma Website
 ![Screenshot (281)](https://user-images.githubusercontent.com/73656840/164911741-de58b539-8026-42b8-8009-707c8ac3ea0b.png)
  
@@ -14,9 +16,8 @@ I am Christian Zaccaria, I am a student at Waterford Institute of Technology (WI
 
 ### Link to Repo:
 https://github.com/ChristianZaccaria/romaWebsiteV2
- 
- 
- 
+  
+---
  
 ## Rent-A-Home App
 ![Screenshot (283)](https://user-images.githubusercontent.com/73656840/164912142-7b4725b0-abdd-4cb2-9559-9fc068ee4937.png)
