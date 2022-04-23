@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to My Online CV
 
-You can use the [editor on GitHub](https://github.com/ChristianZaccaria/ChristianZaccaria.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my GitHub online page! Here I will show some of the projects I have committed on GitHub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## AS Roma Website
+![Screenshot (281)](https://user-images.githubusercontent.com/73656840/164911741-de58b539-8026-42b8-8009-707c8ac3ea0b.png)
+ 
+### Features:
+- Website makes use of semmantic UI, handlebars, lightbox, rollover.
+- It is adaptable to different screen sizes.
+- Website was closely designed based on the real AS Roma website.
 
-### Markdown
+### Link to Repo:
+https://github.com/ChristianZaccaria/romaWebsiteV2
+ 
+ 
+## Rent-A-Home App
+![Screenshot (283)](https://user-images.githubusercontent.com/73656840/164912142-7b4725b0-abdd-4cb2-9559-9fc068ee4937.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Features:
+- You may use the app to view listed properties, or you may login or register as an Agent or Administrator.
+- Contains validation on all fields.
+- Provides feedback on each action performed.
+- When not logged-in, you can view the listed properties.
+- When logged-in as an Agent, you can create, read, update, delete properties.
+- When logged-in as an Administrator, you can create, read, update, delete properties, but also Agents.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristianZaccaria/ChristianZaccaria.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Link to Repo:
+https://github.com/ChristianZaccaria/RentAHomeSystemV2
