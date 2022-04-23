@@ -1,6 +1,8 @@
 # Welcome to My Online CV
 
-Welcome to my GitHub online page! Here I will show some of the projects I have committed on GitHub
+Hi there, welcome to my GitHub online page!
+
+I am Christian Zaccaria, I am a student at Waterford Institute of Technology (WIT). Here I will show some of the projects I have committed on GitHub and will be including more on the way.
 
 ## AS Roma Website
 ![Screenshot (281)](https://user-images.githubusercontent.com/73656840/164911741-de58b539-8026-42b8-8009-707c8ac3ea0b.png)
@@ -12,6 +14,8 @@ Welcome to my GitHub online page! Here I will show some of the projects I have c
 
 ### Link to Repo:
 https://github.com/ChristianZaccaria/romaWebsiteV2
+ 
+ 
  
  
 ## Rent-A-Home App
